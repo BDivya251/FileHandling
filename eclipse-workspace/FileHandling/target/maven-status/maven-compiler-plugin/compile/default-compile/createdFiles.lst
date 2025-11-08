@@ -1,2 +1,4 @@
+com\app\process1\Log.class
 com\app\process1\LoggingTest.class
+Base\base.class
 com\app\process1\ReadAndWriteOpr.class
