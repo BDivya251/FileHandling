@@ -1,6 +1,10 @@
 
 import org.junit.jupiter.api.Test;
+
+import com.app.process1.MathOperations;
+
 import static org.junit.jupiter.api.Assertions.*;
+
 public class MathCalculationTest {
 	@Test
 	public void testAdd() {

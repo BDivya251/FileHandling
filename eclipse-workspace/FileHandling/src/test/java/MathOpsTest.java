@@ -1,5 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
 import  org.junit.jupiter.api.*;
+
+import com.app.process1.MathOperations;
 public class MathOpsTest {
 	@Test
 	public void testAdd() {
