@@ -4,6 +4,14 @@
   <artifactId>FileHandling</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>FileHandling</name>
+  <properties>
+  <sonar.organization>bdivya251</sonar.organization>
+</properties>
+<properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+</properties>
+
   <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
 <dependencies>
 <dependency>
