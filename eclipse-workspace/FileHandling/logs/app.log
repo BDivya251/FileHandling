@@ -1,0 +1,66 @@
+2025-11-07 14:53:58 [main] INFO  com.app.process1.LoggingTest - Application started...
+2025-11-07 14:53:58 [main] DEBUG com.app.process1.LoggingTest - This is a DEBUG message (appears only if level >= DEBUG)
+2025-11-07 14:53:58 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 14:53:58 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 14:53:58 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 14:53:58 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-07 14:53:58 [main] INFO  com.app.process1.LoggingTest - Application finished successfully.
+2025-11-07 15:00:13 [main] INFO  com.app.process1.LoggingTest - Application started...
+2025-11-07 15:00:13 [main] DEBUG com.app.process1.LoggingTest - This is a DEBUG message (appears only if level >= DEBUG)
+2025-11-07 15:00:13 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 15:00:13 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 15:00:13 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 15:00:13 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-07 15:00:13 [main] INFO  com.app.process1.LoggingTest - Application finished successfully.
+2025-11-07 15:19:43 [main] INFO  com.app.process1.LoggingTest - Application started...
+2025-11-07 15:19:43 [main] DEBUG com.app.process1.LoggingTest - This is a DEBUG message (appears only if level >= DEBUG)
+2025-11-07 15:19:43 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 15:19:43 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 15:19:43 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 15:19:43 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-07 15:19:43 [main] INFO  com.app.process1.LoggingTest - Application finished successfully.
+2025-11-07 15:22:00 [main] INFO  com.app.process1.LoggingTest - Application started...
+2025-11-07 15:22:00 [main] DEBUG com.app.process1.LoggingTest - This is a DEBUG message (appears only if level >= DEBUG)
+2025-11-07 15:22:00 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 15:22:00 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 15:22:00 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 15:22:00 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-07 15:22:00 [main] INFO  com.app.process1.LoggingTest - Application finished successfully.
+2025-11-07 15:22:22 [main] INFO  com.app.process1.LoggingTest - Application started...
+2025-11-07 15:22:22 [main] DEBUG com.app.process1.LoggingTest - This is a DEBUG message (appears only if level >= DEBUG)
+2025-11-07 15:22:22 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 15:22:22 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 15:22:22 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 15:22:22 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-07 15:22:23 [main] INFO  com.app.process1.LoggingTest - Application finished successfully.
+2025-11-07 15:23:45 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-07 15:23:45 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-07 15:23:45 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-07 15:23:45 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-08 09:20:23 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-08 09:20:23 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-08 09:20:23 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-08 09:20:23 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
+2025-11-08 09:21:34 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-08 09:21:34 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-08 09:21:34 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-08 09:26:43 [main] WARN  com.app.process1.LoggingTest - This is a WARN message — something might be wrong!
+2025-11-08 09:26:43 [main] ERROR com.app.process1.LoggingTest - This is an ERROR message — something went wrong!
+2025-11-08 09:26:43 [main] FATAL com.app.process1.LoggingTest - This is a FATAL message — serious failure!
+2025-11-08 09:26:43 [main] ERROR com.app.process1.LoggingTest - Exception occurred: 
+java.lang.ArithmeticException: / by zero
+	at com.app.process1.LoggingTest.main(LoggingTest.java:20) [classes/:?]
