@@ -5,7 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>FileHandling</name>
   <properties>
-  <sonar.organization>bdivya251</sonar.organization>
+   <sonar.projectKey>bdivya251_FileHandling</sonar.projectKey>
+    <sonar.organization>bdivya251</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
