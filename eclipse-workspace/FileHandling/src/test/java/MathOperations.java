@@ -8,7 +8,7 @@ public class MathOperations {
 	}
 	public boolean validateName(String custName) {
 		if(null!=custName && custName.equals("james")) {
-			return false;
+			return true;
 		}
 		return true;
 	}
