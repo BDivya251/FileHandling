@@ -4,15 +4,15 @@
   <artifactId>FileHandling</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>FileHandling</name>
-  <properties>
-  
+<properties>
     <sonar.organization>bdivya251</sonar.organization>
-   
- <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>${env.SONAR_TOKEN}</sonar.login>
 
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
 </properties>
+
 
   <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
 <dependencies>
@@ -27,6 +27,7 @@
         <artifactId>log4j-core</artifactId>
         <version>2.22.0</version>
     </dependency>
+    
 
     <!-- Log4j 2 API (provides the Logger class) -->
     <dependency>
