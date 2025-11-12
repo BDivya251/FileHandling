@@ -1,0 +1,5 @@
+Week-3 Assignment:
+- Use streams to generate reports from a CSV dataset (e.g., sales data).
+- Implement async calls with CompletableFuture for API simulation.
+- Create a log parser app that uses lambdas & streams.
+- Refactor imperative code into functional-style Java.
